@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application de navigation du bas</string>
+    <string name="Button1">Les autorisations</string>
+    <string name="TextView3">Tanvi</string>
+    <string name="TextView2">Tanvi</string>
+    <string name="TextView1">Nom: Tanvi Carte d’étudiant: 301044096</string>
+    <string name="Draw">Dessiner</string>
+    <string name="Animate">Animer</string>
+    <string name="Transform">Transformer</string>
+</resources>

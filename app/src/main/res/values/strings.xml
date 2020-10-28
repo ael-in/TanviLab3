@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">TanviLab3</string>
+    <string name="app_name">Bottom Navigation App</string>
+    <string name="Button1">Permissions</string>
+    <string name="TextView3">Tanvi</string>
+    <string name="TextView2">Tanvi</string>
+    <string name="TextView1">Name: Tanvi Student ID: 301044096</string>
+    <string name="Draw">Draw</string>
+    <string name="Animate">Animate</string>
+    <string name="Transform">Transform</string>
 </resources>

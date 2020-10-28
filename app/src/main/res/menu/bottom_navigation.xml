@@ -4,16 +4,16 @@
     <item
         android:id="@+id/tanvi_draw"
         android:icon="@drawable/ic_baseline_brush_24"
-        android:title="Draw" />
+        android:title="@string/Draw" />
 
     <item
         android:id="@+id/tanvi_animate"
         android:icon="@drawable/ic_baseline_burst_mode_24"
-        android:title="Animate" />
+        android:title="@string/Animate" />
 
     <item
         android:id="@+id/tanvi_transform"
         android:icon="@drawable/ic_baseline_transform_24"
-        android:title="Transform" />
+        android:title="@string/Transform" />
 
 </menu>
